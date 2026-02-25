@@ -107,9 +107,9 @@ export default function App() {
                 </a>
               );
             })}
-            <a href="tel:+19196041673" target="_top" className="btn-primary flex items-center gap-2 py-2 px-4 text-sm">
+            <a href="tel:+19196555864" target="_top" className="btn-primary flex items-center gap-2 py-2 px-4 text-sm">
               <Phone size={16} />
-              (919) 604-1673
+              (919) 655-5864
             </a>
           </nav>
 
@@ -145,9 +145,9 @@ export default function App() {
                     </a>
                   );
                 })}
-                <a href="tel:+19196041673" target="_top" className="text-accent font-bold flex items-center justify-center gap-2 py-2">
+                <a href="tel:+19196555864" target="_top" className="text-accent font-bold flex items-center justify-center gap-2 py-2">
                   <Phone size={18} />
-                  Call Now: (919) 604-1673
+                  Call Now: (919) 655-5864
                 </a>
               </div>
             </motion.div>
@@ -172,7 +172,7 @@ export default function App() {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="tel:+19196041673" target="_top" className="btn-primary text-lg flex items-center justify-center gap-3 px-8 py-4 bg-accent hover:bg-accent/90 border-none">
+              <a href="tel:+19196555864" target="_top" className="btn-primary text-lg flex items-center justify-center gap-3 px-8 py-4 bg-accent hover:bg-accent/90 border-none">
                 <Phone size={24} />
                 Call Now
               </a>
@@ -212,7 +212,7 @@ export default function App() {
                     {service.description}
                   </p>
                   <div className="flex items-center justify-between">
-                    <a href="tel:+19196041673" target="_top" className="text-accent font-bold flex items-center gap-1 hover:gap-2 transition-all">
+                    <a href="tel:+19196555864" target="_top" className="text-accent font-bold flex items-center gap-1 hover:gap-2 transition-all">
                       Call Now <ChevronRight size={18} />
                     </a>
                   </div>
@@ -320,9 +320,9 @@ export default function App() {
             Don't let a small leak turn into a big disaster. Our experts are standing by for all your plumbing needs.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="tel:+19196041673" target="_top" className="bg-white text-accent hover:bg-gray-100 text-xl px-10 py-5 rounded-full font-bold transition-all flex items-center justify-center gap-3">
+            <a href="tel:+19196555864" target="_top" className="bg-white text-accent hover:bg-gray-100 text-xl px-10 py-5 rounded-full font-bold transition-all flex items-center justify-center gap-3">
               <Phone size={28} />
-              (919) 604-1673
+              (919) 655-5864
             </a>
           </div>
         </div>
@@ -398,7 +398,7 @@ export default function App() {
       {/* Sticky Mobile Call Button */}
       <div className="md:hidden fixed bottom-6 right-6 z-40">
         <a 
-          href="tel:+19196041673" 
+          href="tel:+19196555864" 
           target="_top"
           className="w-16 h-16 bg-accent text-white rounded-full flex items-center justify-center shadow-2xl animate-pulse"
         >
